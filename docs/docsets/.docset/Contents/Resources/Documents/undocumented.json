@@ -1,0 +1,838 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/App/Calculator_SwiftUIApp.swift",
+      "line": 11,
+      "symbol": "Calculator_SwiftUIApp",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/App/Calculator_SwiftUIApp.swift",
+      "line": 26,
+      "symbol": "AppCoordinator",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/App/Calculator_SwiftUIApp.swift",
+      "line": 28,
+      "symbol": "AppCoordinator.mediator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/App/Calculator_SwiftUIApp.swift",
+      "line": 29,
+      "symbol": "AppCoordinator.main",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/App/Calculator_SwiftUIApp.swift",
+      "line": 33,
+      "symbol": "AppCoordinator.configurateCalculatorScene()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/App/Calculator_SwiftUIApp.swift",
+      "line": 40,
+      "symbol": "AppCoordinator.configurateCurrencyConverterScene()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/Array+UIButton.swift",
+      "line": 12,
+      "symbol": "Array.deselectAll()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/Data+Decodable.swift",
+      "line": 12,
+      "symbol": "Data.decode(toType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/Data+Decodable.swift",
+      "line": 16,
+      "symbol": "Data.toDictionary()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/Double+.swift",
+      "line": 12,
+      "symbol": "Double.asFormattedString(f:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/Result+.swift",
+      "line": 12,
+      "symbol": "Result.mappingData(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/Result+.swift",
+      "line": 25,
+      "symbol": "Result.mappingToDictionary()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/UICollectionView+.swift",
+      "line": 12,
+      "symbol": "UICollectionView.register(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/UICollectionView+.swift",
+      "line": 18,
+      "symbol": "UICollectionView.dequeue(indexPath:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/UITextField+.swift",
+      "line": 12,
+      "symbol": "UITextField.doneAccessory",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/UITextField+.swift",
+      "line": 21,
+      "symbol": "UITextField.createDoneBtnToolbar()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/UITextField+.swift",
+      "line": 37,
+      "symbol": "UITextField.doneButtonAction()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/UIView+.swift",
+      "line": 15,
+      "symbol": "UIView.circleCorner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/UIView+.swift",
+      "line": 27,
+      "symbol": "UIView.cornerRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/UIView+.swift",
+      "line": 38,
+      "symbol": "UIView.borderColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/UIView+.swift",
+      "line": 56,
+      "symbol": "UIView.borderWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/UIView+.swift",
+      "line": 67,
+      "symbol": "UIView.shadowColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/UIView+.swift",
+      "line": 81,
+      "symbol": "UIView.shadowOffset",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/UIView+.swift",
+      "line": 92,
+      "symbol": "UIView.shadowOpacity",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/UIView+.swift",
+      "line": 103,
+      "symbol": "UIView.shadowRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/UIView+.swift",
+      "line": 114,
+      "symbol": "UIView.shadowPath",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/UIView+.swift",
+      "line": 125,
+      "symbol": "UIView.maskToBounds",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Extension/URLResponse+.swift",
+      "line": 12,
+      "symbol": "URLResponse.statusCode()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Helper/JSONHelper.swift",
+      "line": 10,
+      "symbol": "JSONHelper",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Helper/JSONHelper.swift",
+      "line": 12,
+      "symbol": "JSONHelper.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Helper/UserDefaultsManager.swift",
+      "line": 10,
+      "symbol": "UserDefaultsManager",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Helper/UserDefaultsManager.swift",
+      "line": 18,
+      "symbol": "UserDefaultsManager.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Mediator/CurrencyCalculatorMediator.swift",
+      "line": 10,
+      "symbol": "Mediator",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Mediator/CurrencyCalculatorMediator.swift",
+      "line": 13,
+      "symbol": "CurrencyConverterMediator",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Mediator/CurrencyCalculatorMediator.swift",
+      "line": 20,
+      "symbol": "CalculatorMediator",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Mediator/CurrencyCalculatorMediator.swift",
+      "line": 27,
+      "symbol": "CurrencyCalculatorMediator",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Mediator/CurrencyCalculatorMediator.swift",
+      "line": 32,
+      "symbol": "CurrencyCalculatorMediator.init(component1:component2:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Mediator/CurrencyCalculatorMediator.swift",
+      "line": 37,
+      "symbol": "CurrencyCalculatorMediator.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Mediator/CurrencyCalculatorMediator.swift",
+      "line": 39,
+      "symbol": "CurrencyCalculatorMediator.setCalculatorMediator(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Mediator/CurrencyCalculatorMediator.swift",
+      "line": 43,
+      "symbol": "CurrencyCalculatorMediator.setCurrencyConverterMediator(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/AlertData.swift",
+      "line": 10,
+      "symbol": "AlertData",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/AlertData.swift",
+      "line": 13,
+      "symbol": "AlertData.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/AlertData.swift",
+      "line": 14,
+      "symbol": "AlertData.msg",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/AlertData.swift",
+      "line": 16,
+      "symbol": "AlertData.alert",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/CalculationState.swift",
+      "line": 10,
+      "symbol": "CalculationState",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/CalculationState.swift",
+      "line": 12,
+      "symbol": "CalculationState.operations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/CalculationState.swift",
+      "line": 15,
+      "symbol": "CalculationState.isCopy",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/CalculationState.swift",
+      "line": 17,
+      "symbol": "CalculationState.init(operations:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/CalculationState.swift",
+      "line": 27,
+      "symbol": "CalculationState.finalResult",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/MathOperation.swift",
+      "line": 10,
+      "symbol": "MathOperation",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/MathOperation.swift",
+      "line": 12,
+      "symbol": "MathOperation.operator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/MathOperation.swift",
+      "line": 13,
+      "symbol": "MathOperation.firstOperand",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/MathOperation.swift",
+      "line": 14,
+      "symbol": "MathOperation.secondOperand",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/MathOperation.swift",
+      "line": 15,
+      "symbol": "MathOperation.result",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/MathOperator.swift",
+      "line": 10,
+      "symbol": "MathOperator",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/MathOperator.swift",
+      "line": 11,
+      "symbol": "MathOperator.add",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/MathOperator.swift",
+      "line": 12,
+      "symbol": "MathOperator.substract",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/MathOperator.swift",
+      "line": 13,
+      "symbol": "MathOperator.multiply",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Model/MathOperator.swift",
+      "line": 14,
+      "symbol": "MathOperator.divise",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorView.swift",
+      "line": 10,
+      "symbol": "CalculatorView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorView.swift",
+      "line": 12,
+      "symbol": "CalculatorView.viewModel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorView.swift",
+      "line": 77,
+      "symbol": "CalculatorView_Previews",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorView.swift",
+      "line": 83,
+      "symbol": "DismissableTextfield",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorView.swift",
+      "line": 85,
+      "symbol": "DismissableTextfield.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorView.swift",
+      "line": 86,
+      "symbol": "DismissableTextfield.keyType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorView.swift",
+      "line": 87,
+      "symbol": "DismissableTextfield.placeholder",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorView.swift",
+      "line": 117,
+      "symbol": "Coordinator",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorView.swift",
+      "line": 121,
+      "symbol": "Coordinator.textField(_:shouldChangeCharactersIn:replacementString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 10,
+      "symbol": "CalculatorViewModel",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 17,
+      "symbol": "CalculatorViewModel.alert",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 18,
+      "symbol": "CalculatorViewModel.result",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 19,
+      "symbol": "CalculatorViewModel.undoBtnDisabled",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 20,
+      "symbol": "CalculatorViewModel.redoBtnDisabled",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 21,
+      "symbol": "CalculatorViewModel.equalBtnDisabled",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 22,
+      "symbol": "CalculatorViewModel.addBtnSelected",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 23,
+      "symbol": "CalculatorViewModel.minusBtnSelected",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 24,
+      "symbol": "CalculatorViewModel.multiplyBtnSelected",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 25,
+      "symbol": "CalculatorViewModel.divisionBtnSelected",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 26,
+      "symbol": "CalculatorViewModel.secondOperand",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 34,
+      "symbol": "CalculatorViewModel.operations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 36,
+      "symbol": "CalculatorViewModel.mediator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 38,
+      "symbol": "CalculatorViewModel.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 49,
+      "symbol": "CalculatorViewModel.itemTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 55,
+      "symbol": "CalculatorViewModel.undoBtnTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 60,
+      "symbol": "CalculatorViewModel.addBtnTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 68,
+      "symbol": "CalculatorViewModel.minusBtnTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 76,
+      "symbol": "CalculatorViewModel.multiplyBtnTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 84,
+      "symbol": "CalculatorViewModel.divisionBtnTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 92,
+      "symbol": "CalculatorViewModel.equalBtnTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 123,
+      "symbol": "CalculatorViewModel.redoBtnTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 147,
+      "symbol": "CalculatorViewModel",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 163,
+      "symbol": "Array.mutateEach(by:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/CalculatorViewModel.swift",
+      "line": 174,
+      "symbol": "View.hideKeyboard()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/ClaculatorStateManager.swift",
+      "line": 10,
+      "symbol": "ClaculatorStateManager",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/ClaculatorStateManager.swift",
+      "line": 15,
+      "symbol": "ClaculatorStateManager.current",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/Calculator/ClaculatorStateManager.swift",
+      "line": 21,
+      "symbol": "ClaculatorStateManager.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/CurrencyConverter/CurrencyConverterView.swift",
+      "line": 13,
+      "symbol": "CurrencyConverterView.viewModel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/CurrencyConverter/CurrencyConverterView.swift",
+      "line": 42,
+      "symbol": "CurrencyConverterView_Previews",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/CurrencyConverter/CurrencyConverterViewModel.swift",
+      "line": 13,
+      "symbol": "CurrencyConverterViewModel.egpAmount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/CurrencyConverter/CurrencyConverterViewModel.swift",
+      "line": 18,
+      "symbol": "CurrencyConverterViewModel.result",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/CurrencyConverter/CurrencyConverterViewModel.swift",
+      "line": 19,
+      "symbol": "CurrencyConverterViewModel.isConvertBtnDisabled",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/CurrencyConverter/CurrencyConverterViewModel.swift",
+      "line": 20,
+      "symbol": "CurrencyConverterViewModel.alert",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Module/CurrencyConverter/CurrencyConverterViewModel.swift",
+      "line": 22,
+      "symbol": "CurrencyConverterViewModel.mediator",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Service/APIError.swift",
+      "line": 10,
+      "symbol": "APIError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Service/APIError.swift",
+      "line": 11,
+      "symbol": "APIError.unAuthenticated(data:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Service/APIError.swift",
+      "line": 12,
+      "symbol": "APIError.unAuthorized(data:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Service/APIError.swift",
+      "line": 13,
+      "symbol": "APIError.notFound(data:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Service/APIError.swift",
+      "line": 14,
+      "symbol": "APIError.methodNotAllowed(data:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Service/APIError.swift",
+      "line": 15,
+      "symbol": "APIError.internalServerError(data:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Service/APIError.swift",
+      "line": 16,
+      "symbol": "APIError.unknown(statusCode:data:error:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Service/APIError.swift",
+      "line": 17,
+      "symbol": "APIError.decodingFailed(data:error:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Service/APIError.swift",
+      "line": 18,
+      "symbol": "APIError.invalidURL(url:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Service/APIError.swift",
+      "line": 20,
+      "symbol": "APIError.init(rawValue:data:error:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Service/APIError.swift",
+      "line": 58,
+      "symbol": "APIError.localizedDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Service/APIManager.swift",
+      "line": 10,
+      "symbol": "APIManager",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Service/APIManager.swift",
+      "line": 13,
+      "symbol": "APIManager.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Service/APIManager.swift",
+      "line": 24,
+      "symbol": "APIManager.get(fromURL:params:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Service/APIManager.swift",
+      "line": 51,
+      "symbol": "APIManager.get(path:params:mappingTo:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI/Calculator-SwiftUI/Service/CurrencyConvertService.swift",
+      "line": 10,
+      "symbol": "CurrencyConvertService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/yousef/Desktop/Projects/Calculator-SwiftUI"
+}
